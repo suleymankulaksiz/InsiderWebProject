@@ -1,0 +1,6 @@
+The text "Quality Assurance" is visible within ('css selector', '#select2-filter-by-department-container').
+The text 'Istanbul, Turkey' was verified within ('id', 'select2-filter-by-location-container').
+The text 'Istanbul, Turkey' was verified within ('id', 'select2-filter-by-department-container').
+The text "Quality Assurance" is visible within ('css selector', "[class='position-department text-large font-weight-600 text-primary']").
+The text "Quality Assurance" is visible within ('css selector', "[class='position-title font-weight-bold']").
+The text "Istanbul, Turkey" is visible within ('css selector', "[class='position-location text-large']").
